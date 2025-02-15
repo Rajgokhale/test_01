@@ -1,1 +1,1 @@
-#git check push
+#git check pull
